@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzairaslam-crewlogix
+- 👋 Hi, I’m Uzair Aslam
 - 👀 I’m interested in Flutter Developement
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Node.js
